@@ -1,7 +1,6 @@
 const chai = require('chai');
 const expect = chai.expect;
 const api = require('../api/api-revisi');
-// const requestBody = require('../data/create-user.json');
 const payload = require('../data/update-data.json');
 const updateData = require('../scenarios/update-data-profile');
 const jsonSchema = require('../schemas/update-user.json');
