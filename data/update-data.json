@@ -1,0 +1,14 @@
+{
+    "id": "9da80a4e-38a3-4fa6-b71f-4166ee9e6621",
+    "firstName": "Defri",
+    "lastName": "Ansyah",
+    "age": 27,
+    "occupation": "Dev Ops",
+    "nationality": "Jepang",
+    "hobbies": [
+        "read manga"
+    ],
+    "gender": "MALE",
+    "createdDate": "2022-08-16T14:51:28.145",
+    "updatedDate": "2022-08-16T14:51:28.145"
+}

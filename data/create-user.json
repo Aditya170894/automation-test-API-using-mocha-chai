@@ -1,0 +1,14 @@
+{
+  "id": "string",
+  "firstName": "Defri",
+  "lastName": "Ansyah",
+  "age": 27,
+  "occupation": "QA Engineer",
+  "nationality": "Indonesia",
+  "hobbies": [
+    "read novel"
+  ],
+  "gender": "MALE",
+  "createdDate": "2022-08-16T02:46:15.087Z",
+  "updatedDate": "2022-08-16T02:46:15.087Z"
+}
