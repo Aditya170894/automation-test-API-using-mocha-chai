@@ -20,7 +20,7 @@ describe("Create User", async () => {
 describe(`${getId.testcase.description}`, async () => {
 
     it(`${getId.testcase.positive.case1}`, async () => {
-        let userId = "9da80a4e-38a3-4fa6-b71f-4166ee9e6621";
+        let userId = "a5ef2157-3bad-4c92-bd50-8719befbdf77";
         let response = await api.getUserById(userId);
         let bodyData = response.body;
 
